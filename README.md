@@ -14,4 +14,4 @@ The kit also comes with a small utility program that will plot the magnitude res
 
 # Credits
 
-All of this code originally is wroten by (Iowa Hills Software)[http://www.iowahills.com] all initial credit goes to them. I just uploaded this in to git to ease development and empower it with version control system for future possible improvements for the OSS community 
+All of this code originally is wroten by [Iowa Hills Software](http://www.iowahills.com) all initial credit goes to them. I just uploaded this in to git to ease development and empower it with version control system for future possible improvements for the OSS community 
